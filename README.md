@@ -5,25 +5,11 @@ Marjorie Bison, Nicole Ponta, Daniella Maria Schweizer, and Katalin Csilléry (2
 
 *Table of contents*
 
-**tables**
-
-Table S1: Profile of local coordinators responsible for recruitment and their countries of responsibility
-
-**texts**
-
-Text S1: MyGardenOfTrees registration form questions, including the informed consent form
-
-Text S2: General information sent to participants along with the "SetUpMyGarden" form
-
-Text S3: R markdown of the marketing mix model analysis of the recruitment data
-
-Text S4: Semi-structured interview questions for local coordinators
-
 **scripts**
 
 R scripts and data for the marketing mix model analysis of the recruitment data
 
-**SI Datasets**
+**datasets**
 
 Dataset S1: Dataset of citizen science (CS) projects and coordinated distributed experiments (CDEs)
 
