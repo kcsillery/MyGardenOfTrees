@@ -18,3 +18,5 @@ Dataset S2: Recruitment actions of MyGardenOfTrees
 Dataset S3: Registrations to participate in MyGardenOfTrees (anonymised)
 
 Dataset S4: Coded segments of the semi-structured interviews with local coordinators -- barriers
+
+Dataset S5: SetUpMyGarden XLSForm with associated media folder
