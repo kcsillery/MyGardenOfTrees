@@ -4,6 +4,7 @@
 
 > **Bison, M., Ponta, N., Schweizer, D. M., & Csilléry, K. (2025).**  
 > *Harnessing foresters’ engagement for climate change adaptation: the emerging tool of next-generation citizen science.*
+> https://www.biorxiv.org/content/10.1101/2025.09.15.676198v2.abstract
 
 ---
 
