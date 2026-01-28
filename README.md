@@ -1,22 +1,48 @@
-# MyGardenOfTrees
-Supplementary Materials for the manuscript:
+# 🌳 MyGardenOfTrees
 
-Marjorie Bison, Nicole Ponta, Daniella Maria Schweizer, and Katalin Csilléry (2025). Harnessing foresters’ engagement for climate change adaptation: the emerging tool of next-generation citizen science.
+**Supplementary materials for the manuscript:**
 
-*Table of contents*
+> **Bison, M., Ponta, N., Schweizer, D. M., & Csilléry, K. (2025).**  
+> *Harnessing foresters’ engagement for climate change adaptation: the emerging tool of next-generation citizen science.*
 
-**scripts**
+---
 
-R scripts and data for the marketing mix model analysis of the recruitment data
+## 📂 Table of Contents
 
-**datasets**
+- [`scripts/`](#scripts)
+- [`datasets/`](#datasets)
 
-Dataset S1: Dataset of citizen science (CS) projects and coordinated distributed experiments (CDEs)
+---
 
-Dataset S2: Recruitment actions of MyGardenOfTrees
+## 📁 `scripts/`
 
-Dataset S3: Registrations to participate in MyGardenOfTrees (anonymised)
+R scripts and associated data used for the **marketing mix model analysis** of the recruitment data.
 
-Dataset S4: Coded segments of the semi-structured interviews with local coordinators -- barriers
+---
 
-Dataset S5: SetUpMyGarden XLSForm with associated media folder
+## 📁 `datasets/`
+
+Supplementary datasets referenced in the manuscript.
+
+- **Dataset S1**  
+  Dataset of citizen science (CS) projects and coordinated distributed experiments (CDEs)
+
+- **Dataset S2**  
+  Recruitment actions of *MyGardenOfTrees*
+
+- **Dataset S3**  
+  Registrations to participate in *MyGardenOfTrees* (anonymised)
+
+- **Dataset S4**  
+  Coded segments of semi-structured interviews with local coordinators  
+  *(focus on perceived barriers)*
+
+- **Dataset S5**  
+  *SetUpMyGarden* XLSForm with associated media folder
+
+---
+
+## 📌 Notes
+
+- All personal data have been anonymised in accordance with ethical and data protection requirements.
+- See the manuscript for detailed methodological descriptions and data usage.
